@@ -1,0 +1,5 @@
+customtkinter
+python-nmap
+scapy
+shodan
+packaging
