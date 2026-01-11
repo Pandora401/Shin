@@ -1,0 +1,102 @@
+[
+  {
+    "ip": "192.168.1.1",
+    "name": "www.routerlogin.com",
+    "mac": "34:98:B5:66:F7:ED",
+    "os": "Linux 3.0",
+    "ports": [
+      {
+        "port": 22,
+        "svc": "ssh"
+      },
+      {
+        "port": 23,
+        "svc": "telnet"
+      },
+      {
+        "port": 53,
+        "svc": "domain"
+      },
+      {
+        "port": 80,
+        "svc": "http"
+      },
+      {
+        "port": 139,
+        "svc": "netbios-ssn"
+      },
+      {
+        "port": 443,
+        "svc": "http"
+      },
+      {
+        "port": 445,
+        "svc": "netbios-ssn"
+      }
+    ]
+  },
+  {
+    "ip": "192.168.1.12",
+    "name": "",
+    "mac": "BE:51:D7:1A:76:7A",
+    "os": "Unknown",
+    "ports": []
+  },
+  {
+    "ip": "192.168.1.15",
+    "name": "",
+    "mac": "92:9C:D2:89:E6:C4",
+    "os": "Unknown",
+    "ports": []
+  },
+  {
+    "ip": "192.168.1.2",
+    "name": "host.docker.internal",
+    "mac": "20:1F:3B:6D:5D:41",
+    "os": "Unknown",
+    "ports": []
+  },
+  {
+    "ip": "192.168.1.3",
+    "name": "",
+    "mac": "",
+    "os": "Windows 10",
+    "ports": [
+      {
+        "port": 135,
+        "svc": "msrpc"
+      },
+      {
+        "port": 137,
+        "svc": "netbios-ns"
+      },
+      {
+        "port": 139,
+        "svc": "netbios-ssn"
+      },
+      {
+        "port": 445,
+        "svc": "microsoft-ds"
+      }
+    ]
+  },
+  {
+    "ip": "192.168.1.5",
+    "name": "",
+    "mac": "2E:2A:CC:B4:76:BB",
+    "os": "Unknown",
+    "ports": []
+  },
+  {
+    "ip": "192.168.1.7",
+    "name": "",
+    "mac": "D4:8D:26:B3:0D:84",
+    "os": "Linux 4.15 - 5.19",
+    "ports": [
+      {
+        "port": 515,
+        "svc": "tcpwrapped"
+      }
+    ]
+  }
+]
